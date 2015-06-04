@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="black">#FF000000</drawable>
+    <drawable name="blue">#770000FF</drawable>
+    <drawable name="darkblue">#303F9F</drawable>
+    <drawable name="darkgray">#757575</drawable>
+    <drawable name="gray">#BDBDBD</drawable>
+    <drawable name="green">#4CAF50</drawable>
+    <drawable name="orange">#FFFF8000</drawable>
+    <drawable name="purple">#9C27B0</drawable>
+    <drawable name="red">#E53935</drawable>
+    <drawable name="yellow">#FFF176</drawable>
+</resources>

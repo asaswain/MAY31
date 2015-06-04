@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NYC Map</string>
+
+    <string name="instructions">Can you name each location on the map? Click each location to see the answer.</string>
+    <string name="quit">Quit</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
